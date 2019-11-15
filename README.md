@@ -9,7 +9,7 @@ For this assignment, I followed a tutorial provided by SolidWorks to create a 3D
 ![candlestick](https://github.com/jberthy39/Not.So.Basic.CAD/blob/master/Media/lofts.PNG?raw=true)
 
 #### Lesson(s) Learned
-- I learned how to use the sweeps tool. In this particular assignment, I took an oval shape, and swept it across the line of the handle. This then created the 3D handle in the picture below.
+- I learned how to use the sweeps tool. In this particular assignment, I took an oval shape, and swept it across the line of the handle. This then created the 3D handle in the picture above.
 
 ### Lofts (Hammerhead)
 #### Description
