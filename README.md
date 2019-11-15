@@ -6,7 +6,7 @@
 For this assignment, I followed a tutorial provided by SolidWorks to create a 3D image of a candlestick. This assignment focuses on using the revolve feature and the sweeps feature (hence the name of the assignment). Simply put, the assignment starts out with many lines that create a shape. Once that shape is revolved 360°, the last (major) step is to make the handle which is where the sweep tool comes in. The sweep tool is when you take any shape and sweep it across any given path. 
 .
 #### Picture(s)
-![candlestick]()
+![candlestick](https://github.com/jberthy39/Not.So.Basic.CAD/blob/master/Media/lofts.PNG?raw=true)
 
 #### Lesson(s) Learned
 - I learned how to use the sweeps tool. In this particular assignment, I took an oval shape, and swept it across the line of the handle. This then created the 3D handle in the picture below.
