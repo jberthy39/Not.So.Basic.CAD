@@ -16,7 +16,7 @@ For this assignment, I followed a tutorial provided by SolidWorks to create a 3D
 In this assignment, I followed a tutorial from SolidWorks to make a hammerhead. This tutorial features tools like loft and flex. When the tutorial started, it had me make 4 planes where I made 3 circles and a square (one shape on each plane). Then, using the loft tool, I was able to connect all four 2D shapes together to create one big 3D shape. This shape is the [face, neck and throat](https://www.homestratosphere.com/parts-of-hammer/) of the hammer. Then I made another plane that connects to the rest of the hammerhead to create the claw of the hammer. Then the last step, was the newest part for me. Using the flex tool, I made the claw bend up and down contolling the last plane, making an authentic hammerhead shape.
 
 #### Picture(s)
-![hemmerhead]()
+![hemmerhead](https://github.com/jberthy39/Not.So.Basic.CAD/blob/master/Media/sweeps.PNG?raw=true)
 
 #### Lesson(s) Learned
 - I learned how to use the flex tool. It was a really tricky tool to use and I learned that they use an "atom-like" center to determine where to bend any given shape. 
@@ -29,7 +29,7 @@ In this assignment, I followed a tutorial from SolidWorks to make a hammerhead. 
 While following the tutorial on SolidWorks, I made a pressure plate, step by step. Among simple extrudes and extruded cuts, this assignment uses fillets and helps you practice using patterns (The Circular Pattern was used in this assignment.). 
 
 #### Picture(s)
-![pressureplt]()
+![pressureplt](https://raw.githubusercontent.com/jberthy39/Not.So.Basic.CAD/master/Media/pressureplt.PNG)
 
 #### Lesson(s) Learned
 - I learned that you can add a texture or color of any material to your object on SolidWorks
@@ -39,7 +39,7 @@ While following the tutorial on SolidWorks, I made a pressure plate, step by ste
 In this assignment, we followed a tutorial to make a sort of hollowed out "lego brick". This was quite simple for me at the beginning when we were only using extruded cuts, smart dimesions, etc. But afterwards, it instructed me to use fillet and, a new change, shell. The shell tool hollows out an object and was tricky to use for the first time. 
 
 #### Picture(s)
-![tutor1]()
+![tutor1](https://github.com/jberthy39/Not.So.Basic.CAD/blob/master/Media/tutor1.PNG?raw=true)
 
 #### Lesson(s) Learned
 - In this assignment, I learned that the dimension you set (thickness) when you shell a 3D shape, is how much of the shape/material you want to actually leave behind. (Ex. For the tutor, the thickness was 2mm.)
@@ -49,7 +49,7 @@ In this assignment, we followed a tutorial to make a sort of hollowed out "lego 
 In this assignment, you are making the additional part in which you will assemble with the first part later. This part goes over most of the same skills that we learned/practiced for the first part (tutor1). To start, we make a cube and shell it out. Then, you use the Offset Entites tool to make a sort of inner-raised ring as shown below. Then I changed the color. 
 
 #### Picture(s)
-![tutor2]()
+![tutor2](https://github.com/jberthy39/Not.So.Basic.CAD/blob/master/Media/tutor2.PNG?raw=true)
 
 #### Lesson(s) Learned 
 - In this assignment, I became familiarized with the Offset Entities tool. When I first did it, I couldn't quite understand what I was doing, so I went to this [site](https://www.javelin-tech.com/blog/2015/09/solidworks-2016-offset-entities/) and it helped me better understand what I was doing to my part.
@@ -59,7 +59,7 @@ In this assignment, you are making the additional part in which you will assembl
 This assignment teached you all about the basic components and tools that you need to assemble pieces and will show you how to mate and assemble the two pieces (Tutor1 and Tutor2) together. Assembling helps you understand how it will look in reality and it also allows you to see if your pieces fit together or if they are the right size. Skipping this step could lead to mistakes that result in a waste of materials and a load of issues. SolidWorks teaches you to use m the mate tool, which connects two or more objects together under a list of categories like coincident, concentric, distance, lock, parallel, perpendicular, and tangent. 
 
 #### Picture(s)
-![tutor.asmb]()
+![tutor.asmb](https://github.com/jberthy39/Not.So.Basic.CAD/blob/master/Media/tutor.asmb.PNG?raw=true)
 
 #### Lesson(s) Learned
 - I learned about mates and how the exact type of mate you use it very important depending on how accurate and sturdy you would like it. I also learned that assembly is not actually to difficult and tedious. 
