@@ -1,6 +1,6 @@
 # My *Not So Basic CAD* Assignments
 
-## Sweeps and Lofts
+## Sweeps and Lofts:
 ### Sweeps (Candle Stick)
 #### Description
 For this assignment, I followed a tutorial provided by SolidWorks to create a 3D image of a candlestick. This assignment focuses on using the revolve feature and the sweeps feature (hence the name of the assignment). Simply put, the assignment starts out with many lines that create a shape. Once that shape is revolved 360°, the last (major) step is to make the handle which is where the sweep tool comes in. The sweep tool is when you take any shape and sweep it across any given path. 
@@ -23,7 +23,7 @@ In this assignment, I followed a tutorial from SolidWorks to make a hammerhead. 
 
 - I also learned how to use the loft tool, which was much simpler and easier for me to use and remember than the flex tool.  I learned that this aspect connects multiple 2D shapes by connecting things like their vertices. 
 
-## A Little Practice
+## A Little Practice:
 ### Pressure Plate
 #### Description
 While following the tutorial on SolidWorks, I made a pressure plate, step by step. Among simple extrudes and extruded cuts, this assignment uses fillets and helps you practice using patterns (The Circular Pattern was used in this assignment.). 
@@ -62,3 +62,4 @@ This assignment teached you all about the basic components and tools that you ne
 ![tutor.asmb]()
 
 #### Lesson(s) Learned
+- I learned about mates and how the exact type of mate you use it very important depending on how accurate and sturdy you would like it. I also learned that assembly is not actually to difficult and tedious. 
