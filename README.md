@@ -1,11 +1,15 @@
-	Sweeps and Lofts:
+# My *Not So Basic CAD* Assignments
 
-Sweeps (hammerhead) - 
-Lofts (candlestick) -
+> ## Sweeps and Lofts
 
-	A little pracice:
-Tutor 1 - 
-Tutor 2 - 
-Tutor Assembly - 
 
-Pressure plate - 
+
+
+
+> ## A Little Practice
+
+
+
+
+
+
